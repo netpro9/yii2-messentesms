@@ -10,6 +10,12 @@
             "email": "rainari@netpro.ee"
         }
     ],
+    "repositories":[
+    {
+        "type": "git",
+        "url": "https://github.com/netpro9/yii2-messentesms"
+    }
+    ],
     "require": {
         "yiisoft/yii2": "*"
     },
